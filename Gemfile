@@ -33,6 +33,9 @@ group :doc do
 end
 
 gem 'thin'
+
+gem 'bootstrap-sass', '~> 2.3.1.0'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
